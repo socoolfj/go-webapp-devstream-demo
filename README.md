@@ -9,3 +9,4 @@ By default, the automatically generated scaffolding contains:
 - Makefile
 - Dockerfile
 - Helm chart
+- test ci
